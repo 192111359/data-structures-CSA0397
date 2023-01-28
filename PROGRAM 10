@@ -2,8 +2,6 @@
 int main()
 {
     int num1, rem1;
-    printf("name:a.yamini");
-    printf("reg.no:192111343");
     printf("Input an integer: ");
     scanf("%d", &num1);
     rem1 = num1 % 2;
